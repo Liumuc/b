@@ -9,5 +9,8 @@ cd desktop
 回车 Enter
 java -jar bank.jar
 回车 Enter
-所以，cd 就是打开文件夹的关键字，cd 后面就是 您要打开的文件夹名
+所以，cd 就是打开文件夹/硬盘的关键字，cd 后面就是 您要打开的文件夹名/硬盘名
+注：硬盘名要加冒号，如：
+打开D盘：
+d:
 欢迎Star 或 Fork!
