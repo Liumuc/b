@@ -7,8 +7,6 @@
 如果下载到了桌面就输入：
 cd desktop 
 回车 Enter
-cd bank
-回车 Enter
 java -jar bank.jar
 回车 Enter
 所以，cd 就是打开文件夹的关键字，cd 后面就是 您要打开的文件夹名
